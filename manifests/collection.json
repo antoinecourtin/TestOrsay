@@ -1,0 +1,15 @@
+{
+  "id" : "https://antoinecourtin.github.io/TestOrsay/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in antoinecourtin/TestOrsay project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://antoinecourtin.github.io/TestOrsay/manifests/manifest_266507.json",
+    "label" : {
+      "en" : [ "Bergman, Oskar - Flaques dans la neige ; Vinterlandskap - RF MO P 2023 9" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
