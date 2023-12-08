@@ -1,0 +1,272 @@
+{
+  "id" : "https://antoinecourtin.github.io/TestOrsay/manifests/manifest_266507.json",
+  "type" : "Manifest",
+  "@context" : [ "https://iiif.io/api/presentation/3/context.json" ],
+  "label" : {
+    "en" : [ "Bergman, Oskar - Flaques dans la neige ; Vinterlandskap - RF MO P 2023 9" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Musee d'Orsay, dist. RMN-Grand Palais,Sophie Crepy" ]
+    }
+  },
+  "rendering" : [ {
+    "id" : "https://www.musee-orsay.fr/fr/oeuvres/266507",
+    "label" : {
+      "en" : [ "Full record view" ]
+    },
+    "type" : "Text",
+    "format" : "text/html"
+  } ],
+  "provider" : [ {
+    "id" : "https://www.epmo-musees.fr",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+    },
+    "logo" : [ {
+      "id" : "https://www.epmo-musees.fr/themes/ep/logo.svg",
+      "type" : "Image",
+      "format" : "image/png",
+      "height" : 100,
+      "width" : 120
+    } ]
+  } ],
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Musee d'Orsay, dist. RMN-Grand Palais,Sophie Crepy" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "Bergman, Oskar, Flaques dans la neige ; Vinterlandskap. huile sur toile. 1904. Don Michel Descours, 2023 " ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "Flaques dans la neige ; Vinterlandskap" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "People" ]
+    },
+    "value" : {
+      "en" : [ "Bergman, Oskar" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Object Number" ]
+    },
+    "value" : {
+      "en" : [ "RF MO P 2023 9" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1904" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Provenance" ]
+    },
+    "value" : {
+      "en" : [ "Don Michel Descours, 2023" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Dimensions" ]
+    },
+    "value" : {
+      "en" : [ "sans cadre H. 50,3 ; L. 63,5 cm" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Format" ]
+    },
+    "value" : {
+      "en" : [ "huile sur toile" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Type" ]
+    },
+    "value" : {
+      "en" : [ "" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Repository" ]
+    },
+    "value" : {
+      "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Relation" ]
+    },
+    "value" : {
+      "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/266507 " ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Id Metadata Source" ]
+    },
+    "value" : {
+      "en" : [ "266507" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Metadata Source" ]
+    },
+    "value" : {
+      "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/266507" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Digitised by" ]
+    },
+    "value" : {
+      "en" : [ "" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Source Images" ]
+    },
+    "value" : {
+      "en" : [ "https:__cdn.mediatheque.epmoo.fr_link_3c9igq_wlt1ahl57k0x9s0" ]
+    },
+    "_sourceImages" : "l'url publique de l'image sur le cdn ? pas sur du tout de moi"
+  }, {
+    "label" : {
+      "en" : [ "Shelfmark" ]
+    },
+    "value" : {
+      "en" : [ "EPMO - musee d'Orsay " ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Related" ]
+    },
+    "value" : {
+      "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/266507" ]
+    }
+  } ],
+  "viewingDirection" : "left-to-right",
+  "items" : [ {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-1-",
+    "type" : "Canvas",
+    "height" : 690,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "1" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, dist. RMN-Grand Palais / Sophie Crepy" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/objects!266507!546359_l1agtlc9sn480/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 690
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-1-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/annotation/anno-1-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/objects!266507!546359_l1agtlc9sn480/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 690,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-1-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-2-",
+    "type" : "Canvas",
+    "height" : 690,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "2" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, dist. RMN-Grand Palais / Sophie Crepy" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/objects!266507!540120_c1a66q6hjo9cw/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 690
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-2-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/annotation/anno-2-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/objects!266507!540120_c1a66q6hjo9cw/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 690,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/objects!266507/canvas/canvas-2-"
+      } ]
+    } ]
+  } ]
+}
