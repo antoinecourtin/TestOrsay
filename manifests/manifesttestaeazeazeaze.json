@@ -1,0 +1,3180 @@
+{
+  "id" : "https://antoinecourtin.github.io/TestOrsay/manifests/manifesttestaeazeazeaze.json",
+  "type" : "Manifest",
+  "@context" : [ "https://iiif.io/api/presentation/3/context.json" ],
+  "label" : {
+    "en" : [ "Van Gogh" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://www.epmo-musees.fr",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+    },
+    "logo" : [ {
+      "id" : "https://www.epmo-musees.fr/themes/ep/logo.svg",
+      "type" : "Image",
+      "format" : "image/png",
+      "height" : 100,
+      "width" : 120
+    } ]
+  } ],
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "  " ]
+    }
+  } ],
+  "viewingDirection" : "left-to-right",
+  "items" : [ {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-1-",
+    "type" : "Canvas",
+    "height" : 718,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Vaches dans un pre" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, dist. RMN-Grand Palais / Sophie Crepy" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Vaches dans un pre" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Vaches dans un pre. huile sur toile, copie d'apres Jordaens. entre 1873 et 1890.  " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1950 49" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "entre 1873 et 1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 54,5 ; L. 65,0 cm. @ avec cadre H. 74 ; L. 84,5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile, copie d'apres Jordaens" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/78440 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "78440" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/78440" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/78440" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!535534_y19zvu9o9bg4g/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 718
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-1-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-1-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!535534_y19zvu9o9bg4g/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 718,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-1-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-2-",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 580,
+    "label" : {
+      "fr" : [ "Dans le jardin du docteur Paul Gachet" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Dans le jardin du docteur Paul Gachet" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Dans le jardin du docteur Paul Gachet. huile sur toile. 1890. Don Paul Gachet fils, 1954 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1954 15" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Don Paul Gachet fils, 1954" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73 ; L. 52 cm avec cadre H. 90,8 ; L. 69,7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/752 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "752" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/752" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/752" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210672_cbknrmrgwy12s/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 580,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-2-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-2-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210672_cbknrmrgwy12s/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 580
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-2-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-3-94-053430",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 660,
+    "label" : {
+      "fr" : [ "Hopital Saint-Paul a Saint-Remy-de-Provence" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Herve Lewandowski" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Hopital Saint-Paul a Saint-Remy-de-Provence" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Hopital Saint-Paul a Saint-Remy-de-Provence. huile sur toile. 1889. Donation Max et Rosy Kaganovitch, 1973 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1973 25" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1889" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation Max et Rosy Kaganovitch, 1973" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 63,4 ; L. 49,0 cm. @ avec cadre H. 89 ; L. 74 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/14060 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "14060" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/14060" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/14060" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!161712_d4vqkgi82gf03/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 660,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-3-94-053430/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-3-94-053430",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!161712_d4vqkgi82gf03/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 660
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-3-94-053430"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-4-",
+    "type" : "Canvas",
+    "height" : 670,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel. huile sur toile. 1890. Donazione di Paul Gachet figlio, 1954 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1954 14" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donazione di Paul Gachet figlio, 1954" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73 ; L. 92 cm avec cadre H. 91,1 ; L. 111,1 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/754 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "754" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/754" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/754" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!207783_n3rpm704r1p3g/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 670
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-4-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-4-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!207783_n3rpm704r1p3g/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 670,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-4-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-5-",
+    "type" : "Canvas",
+    "height" : 675,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Meridienne ; La Sieste" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Meridienne ; La Sieste" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Meridienne ; La Sieste. huile sur toile. entre 1889 et 1890. Donation sous reserve d'usufruit Mme Fernand Halphen, 1952 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1952 17" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "entre 1889 et 1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit Mme Fernand Halphen, 1952" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73 ; L. 91 cm avec cadre H. 91,5 ; L. 118 ; EP. 15 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/750 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "750" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/750" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/750" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210003_m4cn056ha4ofp/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 675
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-5-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-5-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210003_m4cn056ha4ofp/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 675,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-5-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-6-17-622577",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 707,
+    "label" : {
+      "fr" : [ "L'Arlesienne" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Stephane Marechalle" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "L'Arlesienne" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, L'Arlesienne. huile sur toile. 1888. Donation sous reserve d'usufruit Mme R. de Goldschmidt-Rothschild, 1952 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1952 6" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit Mme R. de Goldschmidt-Rothschild, 1952" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "Cm 92,3 x 73,5" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/14058 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "14058" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/14058" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/14058" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153646_t61nf5ezcoogq/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 707,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-6-17-622577/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-6-17-622577",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153646_t61nf5ezcoogq/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 707
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-6-17-622577"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-7-96-003232",
+    "type" : "Canvas",
+    "height" : 748,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Les Roulottes, campement de bohemiens aux environs d'Arles" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Herve Lewandowski" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Les Roulottes, campement de bohemiens aux environs d'Arles" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Les Roulottes, campement de bohemiens aux environs d'Arles. huile sur toile. 1888. Legs M. et Mme Raymond Koechlin, 1931 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 3670" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Legs M. et Mme Raymond Koechlin, 1931" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 45 ; L. 51 cm avec cadre H. 60,7 ; L. 67,7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/1305 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "1305" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/1305" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/1305" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!163479_r3os7l70tnsvn/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 748
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-7-96-003232/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-7-96-003232",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!163479_r3os7l70tnsvn/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 748,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-7-96-003232"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-8-96-019988",
+    "type" : "Canvas",
+    "height" : 713,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Meridienne ; La Sieste" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Herve Lewandowski" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Meridienne ; La Sieste" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Meridienne ; La Sieste. huile sur toile. entre 1889 et 1890. Donation sous reserve d'usufruit Mme Fernand Halphen, 1952 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1952 17" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "entre 1889 et 1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit Mme Fernand Halphen, 1952" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73 ; L. 91 cm avec cadre H. 91,5 ; L. 118 ; EP. 15 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/750 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "750" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/750" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/750" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!164226_h4j9tgw9e3f3b/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 713
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-8-96-019988/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-8-96-019988",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!164226_h4j9tgw9e3f3b/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 713,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-8-96-019988"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-9-",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 743,
+    "label" : {
+      "fr" : [ "Fritillaires couronne imperiale dans un vase de cuivre" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Fritillaires couronne imperiale dans un vase de cuivre" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Fritillaires couronne imperiale dans un vase de cuivre. huile sur toile. 1887. Legs comte Isaac de Camondo, 1911 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1989" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1887" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Legs comte Isaac de Camondo, 1911" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73,3 ; L. 60,0 cm. @ avec cadre H. 87 ; L. 75,5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/741 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "741" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/741" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/741" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466767_k19os6ba8klsw/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 743,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-9-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-9-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466767_k19os6ba8klsw/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 743
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-9-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-10-",
+    "type" : "Canvas",
+    "height" : 716,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Salle de danse a Arles" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Salle de danse a Arles" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Salle de danse a Arles. huile sur toile. 1888. Donation sous reserve d'usufruit M. et Mme Andre Meyer, 1951 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1950 9" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit M. et Mme Andre Meyer, 1951" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 65,0 ; L. 85,5 cm. @ avec cadre H. 90 ; L. 106 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/759 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "759" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/759" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/759" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466764_s19os65ov7u1s/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 716
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-10-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-10-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466764_s19os65ov7u1s/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 716,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-10-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-11-",
+    "type" : "Canvas",
+    "height" : 701,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Nuit etoilee" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Nuit etoilee" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Nuit etoilee. huile sur toile. 1888. Donation sous reserve d'usufruit M. et Mme Robert Kahn-Sriber, en souvenir de M. et Mme Fernand Moch, 1975 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1975 19" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit M. et Mme Robert Kahn-Sriber, en souvenir de M. et Mme Fernand Moch, 1975" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73,0 ; L. 92,0 cm. @ avec cadre H. 94,5 ; L. 114 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/78696 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "78696" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/78696" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/78696" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466766_c19os69vlh6v4/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 701
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-11-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-11-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466766_c19os69vlh6v4/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 701,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-11-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-12-17-626490",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 845,
+    "label" : {
+      "fr" : [ "Deux fillettes" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Deux fillettes" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Deux fillettes. huile sur toile. 1890. Don Paul Gachet fils, 1954 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1954 16" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Don Paul Gachet fils, 1954" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 51,2 ; L. 51 cm avec cadre H. 69,2 ; L. 68,7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/756 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "756" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/756" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/756" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153674_t1m3mqdx3c50i/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 845,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-12-17-626490/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-12-17-626490",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153674_t1m3mqdx3c50i/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 845
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-12-17-626490"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-13-",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 665,
+    "label" : {
+      "fr" : [ "L'eglise d'Auvers-sur-Oise, vue du chevet" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "L'eglise d'Auvers-sur-Oise, vue du chevet" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, L'eglise d'Auvers-sur-Oise, vue du chevet. huile sur toile. 1890. Achat avec le concours de Paul Gachet, fils du docteur Paul Gachet, et la participation d'une donation anonyme canadienne, 1952 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1951 42" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Achat avec le concours de Paul Gachet, fils du docteur Paul Gachet, et la participation d'une donation anonyme canadienne, 1952" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 93 ; L. 74,5 cm avec cadre H. 110 ; L. 92,3 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/755 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "755" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/755" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/755" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210123_t4f4mvyy5mw77/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 665,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-13-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-13-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!210123_t4f4mvyy5mw77/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 665
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-13-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-14-",
+    "type" : "Canvas",
+    "height" : 759,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Les Roulottes, campement de bohemiens aux environs d'Arles" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Les Roulottes, campement de bohemiens aux environs d'Arles" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Les Roulottes, campement de bohemiens aux environs d'Arles. huile sur toile. 1888. Legs M. et Mme Raymond Koechlin, 1931 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 3670" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Legs M. et Mme Raymond Koechlin, 1931" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 45 ; L. 51 cm avec cadre H. 60,7 ; L. 67,7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/1305 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "1305" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/1305" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/1305" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466769_b19os6dgomc2o/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 759
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-14-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-14-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466769_b19os6dgomc2o/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 759,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-14-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-15-",
+    "type" : "Canvas",
+    "height" : 740,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Le Restaurant de la Sirene a Asnieres" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Le Restaurant de la Sirene a Asnieres" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Le Restaurant de la Sirene a Asnieres. huile sur toile. 1887. Legs Joseph Reinach, 1921 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 2325" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1887" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Legs Joseph Reinach, 1921" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 54,0 ; L. 65,5 cm. @ avec cadre H. 73,5 ; L. 84,5 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/743 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "743" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/743" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/743" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466768_k19os6coecgyo/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 740
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-15-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-15-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466768_k19os6coecgyo/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 740,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-15-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-16-",
+    "type" : "Canvas",
+    "height" : 696,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Chambre de Van Gogh a Arles" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Chambre de Van Gogh a Arles" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Chambre de Van Gogh a Arles. huile sur toile. 1889. Cession en application du traite de paix avec le Japon, 1959 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1959 2" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1889" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Cession en application du traite de paix avec le Japon, 1959" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 57,3 ; L. 73,5 cm. @ avec cadre H. 74,5 ; L. 90,7 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/746 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "746" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/746" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/746" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466765_d19os6715gh8g/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 696
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-16-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-16-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!466765_d19os6715gh8g/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 696,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-16-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-17-",
+    "type" : "Canvas",
+    "height" : 673,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Chaumes de Cordeville a Auvers-sur-Oise ; Chaumes de Montcel. huile sur toile. 1890. Donazione di Paul Gachet figlio, 1954 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1954 14" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donazione di Paul Gachet figlio, 1954" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 73 ; L. 92 cm avec cadre H. 91,1 ; L. 111,1 cm" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/754 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "754" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/754" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/754" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!211137_w46j6y2giqmn5/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 673
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-17-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-17-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!211137_w46j6y2giqmn5/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 673,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-17-"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-18-17-614103",
+    "type" : "Canvas",
+    "height" : 848,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "Roses et anemones" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "Roses et anemones" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, Roses et anemones. huile sur toile. 1890. Don Paul Gachet fils, 1954 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1954 12" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1890" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Don Paul Gachet fils, 1954" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "H. 51,7 ; L. 52,0 cm." ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/753 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "753" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/753" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/753" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153273_t42m43e4kd3gp/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 848
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-18-17-614103/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-18-17-614103",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153273_t42m43e4kd3gp/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 848,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-18-17-614103"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-19-17-614106",
+    "type" : "Canvas",
+    "height" : 850,
+    "width" : 641,
+    "label" : {
+      "fr" : [ "L'Italienne" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "RMN-Grand Palais (Musee d'Orsay) / Adrien Didierjean" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "L'Italienne" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, L'Italienne. huile sur toile. 1887. Donation baronne Eva Gebhard-Gourgaud, 1965 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1965 14" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1887" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation baronne Eva Gebhard-Gourgaud, 1965" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "Cm 81 x 60" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "Peintures" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/742 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "742" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/742" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "RMN" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/742" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153274_r3d6uaonbcahp/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 641,
+      "height" : 850
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-19-17-614106/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-19-17-614106",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!153274_r3d6uaonbcahp/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 850,
+          "width" : 641
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-19-17-614106"
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-20-",
+    "type" : "Canvas",
+    "height" : 671,
+    "width" : 850,
+    "label" : {
+      "fr" : [ "La Salle de danse a Arles" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Attribution" ]
+      },
+      "value" : {
+        "fr" : [ "Musee d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt" ]
+      }
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Qualificatif" ]
+      },
+      "value" : {
+        "fr" : [ "La Salle de danse a Arles" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent, La Salle de danse a Arles. huile sur toile. 1888. Donation sous reserve d'usufruit M. et Mme Andre Meyer, 1951 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "People" ]
+      },
+      "value" : {
+        "en" : [ "Van Gogh, Vincent" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Object Number" ]
+      },
+      "value" : {
+        "en" : [ "RF 1950 9" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Date" ]
+      },
+      "value" : {
+        "en" : [ "1888" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Provenance" ]
+      },
+      "value" : {
+        "en" : [ "Donation sous reserve d'usufruit M. et Mme Andre Meyer, 1951" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Dimensions" ]
+      },
+      "value" : {
+        "en" : [ "Alt. 65; Anch. 81 cm." ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Format" ]
+      },
+      "value" : {
+        "en" : [ "huile sur toile" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Type" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Repository" ]
+      },
+      "value" : {
+        "en" : [ "Etablissement public du Musée d'Orsay et du musée de l'Orangerie - Valerie Giscard d'Estaing" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Relation" ]
+      },
+      "value" : {
+        "en" : [ "Online Collection : https://www.musee-orsay.fr/fr/oeuvres/759 " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Id Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "759" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Metadata Source" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/759" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Digitised by" ]
+      },
+      "value" : {
+        "en" : [ "Atelier" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Shelfmark" ]
+      },
+      "value" : {
+        "en" : [ "EPMO - musee d'Orsay " ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Related" ]
+      },
+      "value" : {
+        "en" : [ "https://www.musee-orsay.fr/fr/oeuvres/759" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!207436_h3svwaghz8zlz/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/png",
+      "width" : 850,
+      "height" : 671
+    } ],
+    "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+    "items" : [ {
+      "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-20-/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/annotation/anno-20-",
+        "protocol" : "https://iiif.io/api/image",
+        "profile" : "level2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "@context" : [ "https://iiif.io/api/image/3/context.json" ],
+          "id" : "https://iiif.musee-orsay.fr/Scaler/IIIF/3/albums!761!207436_h3svwaghz8zlz/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 671,
+          "width" : 850
+        },
+        "target" : "https://iiif.musee-orsay.fr/Manifester/IIIF/3/albums!761/canvas/canvas-20-"
+      } ]
+    } ]
+  } ]
+}
