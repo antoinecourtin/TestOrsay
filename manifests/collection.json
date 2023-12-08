@@ -11,5 +11,11 @@
       "en" : [ "Bergman, Oskar - Flaques dans la neige ; Vinterlandskap - RF MO P 2023 9" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://antoinecourtin.github.io/TestOrsay/manifests/manifesttestaeazeazeaze.json",
+    "label" : {
+      "en" : [ "Van Gogh" ]
+    },
+    "type" : "Manifest"
   } ]
 }
